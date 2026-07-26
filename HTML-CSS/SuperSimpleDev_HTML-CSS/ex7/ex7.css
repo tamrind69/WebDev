@@ -1,0 +1,21 @@
+._7a{
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+._7b{
+    margin-left: 20px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+._7c{
+    margin-left: 20px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 75px;
+}
