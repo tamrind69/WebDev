@@ -32,3 +32,79 @@
     box-shadow: 0px 0px 5px gray;
     margin: auto;
 }
+.d_fname,
+.d_lname{
+    box-sizing: border-box;
+    padding-left: 15px;
+    display: inline-block;
+    height: 30px;
+    width: 125px;
+    margin-left: 1px;
+    margin-bottom: 5px;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: gray;
+}
+
+.d_mail{
+    border-color: gray;
+    box-sizing: border-box;
+    padding-left: 15px;
+    height: 30px;
+    margin-left: 1px;
+    display: block;
+    width: 256px;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+.d_sign{
+    margin-top: 5px;
+    display: block;
+    height: 30px;
+    width: 258px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(0, 89, 255);
+    color: white;
+}
+
+.e_ride{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:xx-large;
+    margin-bottom: 10px;
+}
+
+.e_location,
+.e_destination{
+    margin-top: 5px;
+    display: block;
+    height: 30px;
+    width: 325px;
+    background-color: rgb(237, 235, 235);
+    border: none;
+    border-radius: 2px;
+    padding-left: 15px;
+}
+
+.e_request{
+    color: white;
+    background-color: black;
+    border: none;
+    margin-top: 20px;
+    height: 35px;
+    width: 125px;
+    cursor: pointer;
+}
+
+.e_later{
+    color: black;
+    background-color:  rgb(237, 235, 235);
+    border: none;
+    margin-top: 20px;
+    height: 35px;
+    width: 125px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
