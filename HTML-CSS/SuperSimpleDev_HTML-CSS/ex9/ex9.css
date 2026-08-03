@@ -49,3 +49,42 @@
     font-family: 'Roboto', sans-serif;
     font-size: small;
 }
+
+.box1{
+    display:inline-block;
+    box-shadow: 0px 0px 10px gray;
+    margin:5px
+}
+
+.cat{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.text1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin:5px;
+}
+
+.text2{
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+    margin:5px;
+    font-size: small;
+}
+
+.button{
+    height: 30px;
+    width: 90px;
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px 5px 5px;
+    cursor: pointer;
+}
